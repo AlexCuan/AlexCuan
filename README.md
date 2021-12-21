@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Cuba</h3>
 
 - 🔭 I’m currently working on
-- 🌱 I’m currently learning **Django by myself 🤓**
+- 🌱 I’m currently learning **Javascript** by myself 🤓
 
 - 💬 Ask me about **Python 🐍**
 
