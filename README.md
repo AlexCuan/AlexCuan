@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate developer from Cuba</h3>
 
-- 🔭 I’m currently working on [patri-s_gallery](https://github.com/fav0109/patri-s_gallery)
-
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning **Django by myself 🤓**
 
 - 💬 Ask me about **Python 🐍**
