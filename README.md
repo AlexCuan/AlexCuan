@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Python 🐍**
 
-- 📫 How to reach me **fav09@protonmail.com**
+- 📫 How to reach me **alexcuan@proton.me**
 
 - ✨Little Description **I am a passionate self-apprentice, anxious for learning more each day :)**
 
