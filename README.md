@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate developer from Cuba</h3>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Computer Science**
 
-- 📝 I regularly write on my telegram channel [https://t.me/alexcuan_channel](https://t.me/alexcuan_channel)
+- 📝 I regularly write on my telegram channel [https://t.me/Alex_Cuan](https://t.me/Alex_Cuan)
 
 - 💬 Ask me about **Python and backend development**
 
-- 📫 How to reach me **alexcuan@proton.me**
+- 📫 How to reach me **favier.cuan@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
