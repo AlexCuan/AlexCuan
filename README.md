@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python and backend development**
 
-- 📫 How to reach me **favier.cuan@gmail.com**
+- 📫 How to reach me **alex@alexcuan.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
